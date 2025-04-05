@@ -1,6 +1,8 @@
 {
   "name": "project",
-  "dependencies": {},
+  "dependencies": {
+    "sortablejs": "^1.15.6"
+  },
   "devDependencies": {
     "vite": "latest"
   },
